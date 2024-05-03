@@ -50,3 +50,4 @@ For any inquiries, feedback, or support regarding the text summarization framewo
 - Aryan Kathale: aryankathale18@gmail.com
 - Rajvardhan Patil: rajvardhanpatil411@gmail.com
 - Vaishnavi Mundada: vaishu1090@gmail.com
+- Yatin Tiku: 1032212501@mitwpu.edu.in
