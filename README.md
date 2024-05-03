@@ -46,6 +46,7 @@ While this repository is private and intended for internal use only, contributio
 
 For any inquiries, feedback, or support regarding the text summarization framework, please contact the project manager or designated team members:
 
-- [Project Manager Name]: [Email Address]
-- [Team Member 1 Name]: [Email Address]
-- [Team Member 2 Name]: [Email Address]
+- Yash Sable: sableyash44@gmail.com
+- Aryan Kathale: aryankathale18@gmail.com
+- Rajvardhan Patil: rajvardhanpatil411@gmail.com
+- Vaishnavi Mundada: vaishu1090@gmail.com
